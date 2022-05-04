@@ -10,3 +10,19 @@ h1 {
   padding-top: 35px;
   padding-bottom: 15px;
 }
+
+#p1, #p2 {
+  text-align:center;
+  width: 90%;
+  height: auto;
+  border: solid black;
+  border-width: 5px;
+  background-color: rgb(83, 104, 125);
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+.rollButton, .holdButton {
+  align-items: center;
+}
+
